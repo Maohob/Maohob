@@ -1,4 +1,4 @@
-<h1>Hi, I'm Waleed!Passionate Cybersecurity Analyst  <br/><a href="https://github.com/Maohob">Programmer</a>, <a href="https://www.linkedin.com/in/waleed-alharbi-38108a123/">Passionate Cybersecurity Analyst</a>
+<h1>Hi, I'm Waleed!Passionate Cybersecurity Analyst  <br/><a href="https://github.com/Maohob">Programmer</a>, <a href="https://www.linkedin.com/in/waleed-alharbi-38108a123/"> Cybersecurity </a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
